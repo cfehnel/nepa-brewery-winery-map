@@ -152,6 +152,60 @@
         "Type": "Winery",
         "marker-color": "#252fa9"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.575787,
+          41.480000
+        ]
+      },
+      "properties": {
+        "Name": "Ferrone Family Winery",
+        "City": "Peckville, PA",
+        "URL": "http://www.ffwine.com/",
+        "Facebook": "https://www.facebook.com/FerroneFamilyWinery",
+        "Type": "Winery",
+        "marker-color": "#252fa9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.665080,
+          41.408784
+        ]
+      },
+      "properties": {
+        "Name": "Ferrone Family Winery",
+        "City": "Scranton, PA",
+        "URL": "http://www.ffwine.com/",
+        "Facebook": "https://www.facebook.com/FerroneFamilyWinery",
+        "Type": "Winery",
+        "marker-color": "#252fa9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.499597,
+          41.575217
+        ]
+      },
+      "properties": {
+        "Name": "Ferrone Family Winery",
+        "City": "Carbondale, PA",
+        "URL": "http://www.ffwine.com/",
+        "Facebook": "https://www.facebook.com/FerroneFamilyWinery",
+        "Type": "Winery",
+        "marker-color": "#252fa9"
+      }
     }
  ]
 }
